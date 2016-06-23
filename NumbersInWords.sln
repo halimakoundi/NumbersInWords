@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInWords.Src", "NumbersInWords.Src\NumbersInWords.Src.csproj", "{623B0A35-3F2A-4DCA-821A-78047872C365}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInWords.Test", "NumbersInWords.Test\NumbersInWords.Test.csproj", "{623B0A35-3F2A-4DCA-821A-78047872C365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
